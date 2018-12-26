@@ -1,3 +1,3 @@
 # invie-curso-github
 Repositorio del curso profesional de Git y Github - Platzi.com.
-passphrase permisos
+hecho por Guarambo
